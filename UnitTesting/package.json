@@ -1,0 +1,17 @@
+{
+  "name": "calcunittest",
+  "version": "1.0.0",
+  "description": "primera prueba de unit test muy basica para practicar con logica de programacion muy facil",
+  "main": "calc.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "sofia brugo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.2"
+  }
+}
